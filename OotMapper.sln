@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OotMapper", "OotMapper\OotMapper.csproj", "{A81F28FF-6D19-424D-9BB9-DDFB31E7DE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81F28FF-6D19-424D-9BB9-DDFB31E7DE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81F28FF-6D19-424D-9BB9-DDFB31E7DE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81F28FF-6D19-424D-9BB9-DDFB31E7DE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81F28FF-6D19-424D-9BB9-DDFB31E7DE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CB8920-7B3C-45AD-8685-86E7CC50A7B8}
+	EndGlobalSection
+EndGlobal

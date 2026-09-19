@@ -1,0 +1,459 @@
+{
+  "Segments": {
+    "01_Kokiri": {
+      "Size": "200,165.947242206235",
+      "Entrances": {
+        "Kokiri to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.425,
+            "Y": 0.0
+          }
+        },
+        "Kokiri to Saria's Bridge": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.435
+          }
+        }
+      }
+    },
+    "02_Hyrule_Field": {
+      "Size": "400,385.494106980961",
+      "Entrances": {
+        "Hyrule Field to Kokiri": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.929,
+            "Y": 0.588
+          }
+        },
+        "Hyrule Field to Lake Hylia": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.252,
+            "Y": 1.0
+          }
+        },
+        "Hyrule Field to Gerudo Valley": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.004,
+            "Y": 0.484
+          }
+        },
+        "Hyrule Field to Lon Lon": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.459,
+            "Y": 0.449
+          }
+        },
+        "Hyrule Field to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.597,
+            "Y": 0.076
+          }
+        },
+        "Hyrule Field to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.836,
+            "Y": 0.067
+          }
+        },
+        "Hyrule Field to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.988,
+            "Y": 0.292
+          }
+        }
+      }
+    },
+    "03_Market": {
+      "Size": "200,93.504410585405",
+      "Entrances": {
+        "Market to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.687,
+            "Y": 0.998
+          }
+        },
+        "Market to Castle": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.686,
+            "Y": 0.005
+          }
+        },
+        "Market to Temple of Time Entrance": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.999,
+            "Y": 0.156
+          }
+        }
+      }
+    },
+    "04_ToT_Entrance": {
+      "Size": "200,165.79476861167",
+      "Entrances": {
+        "Temple of Time Entrance to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.053,
+            "Y": 0.893
+          }
+        }
+      }
+    },
+    "05_Castle": {
+      "Size": "200,271.832460732984",
+      "Entrances": {
+        "Castle to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.307,
+            "Y": 0.973
+          }
+        }
+      }
+    },
+    "06_LonLon": {
+      "Size": "200,251.612903225806",
+      "Entrances": {
+        "Lon Lon to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.714,
+            "Y": 0.008
+          }
+        }
+      }
+    },
+    "07_Kakariko": {
+      "Size": "200,136.707663197729",
+      "Entrances": {
+        "Kakariko to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.777
+          }
+        },
+        "Kakariko to Graveyard": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.998,
+            "Y": 0.855
+          }
+        },
+        "Kakariko to Death Mountain Trail": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.566,
+            "Y": 0.002
+          }
+        }
+      }
+    },
+    "08_Lost_Woods": {
+      "Size": "200,260.037059913527",
+      "Entrances": {
+        "Saria's Bridge to Kokiri": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.179,
+            "Y": 0.842
+          }
+        },
+        "Saria's Bridge to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.001,
+            "Y": 0.844
+          }
+        },
+        "Lost Woods to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.99,
+            "Y": 0.37
+          }
+        },
+        "Lost Woods to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.594,
+            "Y": 0.316
+          }
+        },
+        "Lost Woods to Sacred Forest Meadow": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.593,
+            "Y": 0.0
+          }
+        },
+        "Lost Woods to Kokiri (Get Lost)": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.392,
+            "Y": 0.601
+          }
+        }
+      }
+    },
+    "09_Sacred_Meadow": {
+      "Size": "69.891,200",
+      "Entrances": {
+        "Sacred Forest Meadow to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.39,
+            "Y": 0.998
+          }
+        }
+      }
+    },
+    "10_Graveyard": {
+      "Size": "200,75.5670771224887",
+      "Entrances": {
+        "Graveyard to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.002,
+            "Y": 0.634
+          }
+        }
+      }
+    },
+    "11_Mountain_Trail": {
+      "Size": "200,469.70684039088",
+      "Entrances": {
+        "Death Mountain Trail to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.367,
+            "Y": 0.996
+          }
+        },
+        "Death Mountain Trail to Death Mountain Crater": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.787,
+            "Y": 0.004
+          }
+        },
+        "Death Mountain Trail to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.655,
+            "Y": 0.479
+          }
+        }
+      }
+    },
+    "12_Goron_City": {
+      "Size": "200,208.540925266904",
+      "Entrances": {
+        "Goron City to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.736,
+            "Y": 0.99
+          }
+        },
+        "Goron City to Death Mountain Trail": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.579,
+            "Y": 0.993
+          }
+        },
+        "Goron City to Death Mountain Crater": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.593,
+            "Y": 0.003
+          }
+        }
+      }
+    },
+    "13_Crater": {
+      "Size": "200,208.801624915369",
+      "Entrances": {
+        "Death Mountain Crater to Death Mountain Trail": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.279,
+            "Y": 0.915
+          }
+        },
+        "Death Mountain Crater to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.007,
+            "Y": 0.416
+          }
+        }
+      }
+    },
+    "14_Zora_River": {
+      "Size": "200,102.927215189873",
+      "Entrances": {
+        "Zora's River to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.066,
+            "Y": 0.996
+          }
+        },
+        "Zora's River to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.947,
+            "Y": 0.275
+          }
+        },
+        "Zora's River to Zora's Domain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.999,
+            "Y": 0.098
+          }
+        }
+      }
+    },
+    "15_Zoras_Domain": {
+      "Size": "200,240.366972477064",
+      "Entrances": {
+        "Zora's Domain to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.747
+          }
+        },
+        "Zora's Domain to Lake Hylia": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.452,
+            "Y": 0.721
+          }
+        },
+        "Zora's Domain to Zora's Fountain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.784,
+            "Y": 0.008
+          }
+        }
+      }
+    },
+    "16_Lake_Hylia": {
+      "Size": "200,255.177514792899",
+      "Entrances": {
+        "Lake Hylia to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.358,
+            "Y": 0.003
+          }
+        },
+        "Lake Hylia to Zora's Domain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.516,
+            "Y": 0.393
+          }
+        }
+      }
+    },
+    "17_Zoras_Fountain": {
+      "Size": "200,220.181405895692",
+      "Entrances": {
+        "Zora's Fountain to Zora's Domain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.089,
+            "Y": 0.517
+          }
+        }
+      }
+    },
+    "18_Gerudo_Valley": {
+      "Size": "200,196.402289452167",
+      "Entrances": {
+        "Gerudo Valley to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.998,
+            "Y": 0.592
+          }
+        },
+        "Gerudo Valley to Gerudo Fortress": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.002,
+            "Y": 0.335
+          }
+        }
+      }
+    },
+    "19_Gerudo_Fortress": {
+      "Size": "200,230.769230769231",
+      "Entrances": {
+        "Gerudo Fortress to Gerudo Valley": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.253,
+            "Y": 0.906
+          }
+        },
+        "Gerudo Fortress to Wasteland": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.003,
+            "Y": 0.353
+          }
+        }
+      }
+    },
+    "20_Wasteland": {
+      "Size": "200,116.009038762385",
+      "Entrances": {
+        "Wasteland to Gerudo Fortress": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.966,
+            "Y": 0.887
+          }
+        },
+        "Wasteland to Desert Colossus": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.003,
+            "Y": 0.353
+          }
+        }
+      }
+    },
+    "21_Colossus": {
+      "Size": "200,206.608695652174",
+      "Entrances": {
+        "Desert Colossus to Wasteland": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.997,
+            "Y": 0.438
+          }
+        }
+      }
+    }
+  }
+}

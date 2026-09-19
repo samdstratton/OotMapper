@@ -1,0 +1,204 @@
+{
+  "Segments": {
+    "01_Kokiri": {
+      "Size": "200,200",
+      "Entrances": {
+        "Kokiri to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.425,
+            "Y": 0.0
+          }
+        },
+        "Kokiri to Saria's Bridge": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.435
+          }
+        }
+      }
+    },
+    "02_Hyrule_Field": {
+      "Size": "400,400",
+      "Entrances": {
+        "Hyrule Field to Kokiri": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.929,
+            "Y": 0.588
+          }
+        },
+        "Hyrule Field to Lake Hylia": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.252,
+            "Y": 1.0
+          }
+        },
+        "Hyrule Field to Gerudo Valley": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.004,
+            "Y": 0.484
+          }
+        },
+        "Hyrule Field to Lon Lon": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.459,
+            "Y": 0.449
+          }
+        },
+        "Hyrule Field to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.597,
+            "Y": 0.076
+          }
+        },
+        "Hyrule Field to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.836,
+            "Y": 0.067
+          }
+        },
+        "Hyrule Field to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.988,
+            "Y": 0.292
+          }
+        }
+      }
+    },
+    "03_Market": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "04_ToT_Entrance": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "05_Castle": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "06_LonLon": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "07_Kakariko": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "08_Lost_Woods": {
+      "Size": "200,200",
+      "Entrances": {
+        "Saria's Bridge to Kokiri": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.179,
+            "Y": 0.842
+          }
+        },
+        "Saria's Bridge to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.001,
+            "Y": 0.844
+          }
+        },
+        "Lost Woods to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.99,
+            "Y": 0.37
+          }
+        },
+        "Lost Woods to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.594,
+            "Y": 0.316
+          }
+        },
+        "Lost Woods to Sacred Forest Meadow": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.593,
+            "Y": 0.0
+          }
+        },
+        "Lost Woods to Kokiri (Get Lost)": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.392,
+            "Y": 0.601
+          }
+        }
+      }
+    },
+    "09_Sacred_Meadow": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "10_Graveyard": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "11_Mountain_Trail": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "12_Goron_City": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "13_Crater": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "14_Zora_River": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "15_Zoras_Domain": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "16_Lake_Hylia": {
+      "Size": "200,200",
+      "Entrances": {
+        "Lake Hylia to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.358,
+            "Y": 0.003
+          }
+        }
+      }
+    },
+    "17_Zoras_Fountain": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "18_Gerudo_Valley": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "19_Gerudo_Fortress": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "20_Wasteland": {
+      "Size": "200,200",
+      "Entrances": {}
+    },
+    "21_Colossus": {
+      "Size": "200,200",
+      "Entrances": {}
+    }
+  }
+}

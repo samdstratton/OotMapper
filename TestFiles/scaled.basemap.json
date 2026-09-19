@@ -1,0 +1,88 @@
+{
+  "Segments": {
+    "01_Kokiri": {
+      "Size": "200,165.947242206235",
+      "Entrances": {}
+    },
+    "02_Hyrule_Field": {
+      "Size": "400,385.494106980961",
+      "Entrances": {}
+    },
+    "03_Market": {
+      "Size": "200,93.504410585405",
+      "Entrances": {}
+    },
+    "04_ToT_Entrance": {
+      "Size": "200,165.79476861167",
+      "Entrances": {}
+    },
+    "05_Castle": {
+      "Size": "200,271.832460732984",
+      "Entrances": {}
+    },
+    "06_LonLon": {
+      "Size": "200,251.612903225806",
+      "Entrances": {}
+    },
+    "07_Kakariko": {
+      "Size": "200,136.707663197729",
+      "Entrances": {}
+    },
+    "08_Lost_Woods": {
+      "Size": "200,260.037059913527",
+      "Entrances": {}
+    },
+    "09_Sacred_Meadow": {
+      "Size": "200,572.318339100346",
+      "Entrances": {}
+    },
+    "10_Graveyard": {
+      "Size": "200,75.5670771224887",
+      "Entrances": {}
+    },
+    "11_Mountain_Trail": {
+      "Size": "200,469.70684039088",
+      "Entrances": {}
+    },
+    "12_Goron_City": {
+      "Size": "200,208.540925266904",
+      "Entrances": {}
+    },
+    "13_Crater": {
+      "Size": "200,208.801624915369",
+      "Entrances": {}
+    },
+    "14_Zora_River": {
+      "Size": "200,102.927215189873",
+      "Entrances": {}
+    },
+    "15_Zoras_Domain": {
+      "Size": "200,240.366972477064",
+      "Entrances": {}
+    },
+    "16_Lake_Hylia": {
+      "Size": "200,255.177514792899",
+      "Entrances": {}
+    },
+    "17_Zoras_Fountain": {
+      "Size": "200,220.181405895692",
+      "Entrances": {}
+    },
+    "18_Gerudo_Valley": {
+      "Size": "200,196.402289452167",
+      "Entrances": {}
+    },
+    "19_Gerudo_Fortress": {
+      "Size": "200,230.769230769231",
+      "Entrances": {}
+    },
+    "20_Wasteland": {
+      "Size": "200,116.009038762385",
+      "Entrances": {}
+    },
+    "21_Colossus": {
+      "Size": "200,206.608695652174",
+      "Entrances": {}
+    }
+  }
+}

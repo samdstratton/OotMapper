@@ -1,0 +1,190 @@
+{
+  "Positions": {
+    "01_Kokiri": {
+      "X": 407.90004078537322,
+      "Y": 352.44618196510976
+    },
+    "02_Hyrule_Field": {
+      "X": -150.65224847675836,
+      "Y": -389.80668739036258
+    },
+    "03_Market": {
+      "X": -181.68262384608119,
+      "Y": -543.32765145498149
+    },
+    "04_ToT_Entrance": {
+      "X": 32.250881330216316,
+      "Y": -643.48494209198066
+    },
+    "05_Castle": {
+      "X": -92.19123426119944,
+      "Y": -881.41809441648331
+    },
+    "06_LonLon": {
+      "X": -304.05704635558232,
+      "Y": 42.603621314856895
+    },
+    "07_Kakariko": {
+      "X": 233.34717003020063,
+      "Y": -531.68008125464576
+    },
+    "08_Lost_Woods": {
+      "X": 308.81562270262009,
+      "Y": 91.489074848964719
+    },
+    "09_Sacred_Meadow": {
+      "X": 332.94715905807533,
+      "Y": -281.13246259508389
+    },
+    "10_Graveyard": {
+      "X": 440.96092608333413,
+      "Y": -561.04458458737213
+    },
+    "11_Mountain_Trail": {
+      "X": 249.05599137446893,
+      "Y": -1032.2290256506449
+    },
+    "12_Goron_City": {
+      "X": 621.852692986105,
+      "Y": -827.85487140185535
+    },
+    "13_Crater": {
+      "X": 794.00738143556191,
+      "Y": -1093.5598126670946
+    },
+    "14_Zora_River": {
+      "X": 341.454000826235,
+      "Y": -362.21194443879284
+    },
+    "15_Zoras_Domain": {
+      "X": 988.32100016166237,
+      "Y": -563.49891677221171
+    },
+    "16_Lake_Hylia": {
+      "X": 474.1026592557082,
+      "Y": 661.77746159964249
+    },
+    "17_Zoras_Fountain": {
+      "X": 1018.3488598576296,
+      "Y": -878.665945265028
+    },
+    "18_Gerudo_Valley": {
+      "X": -471.90173140782048,
+      "Y": -276.65314073341119
+    },
+    "19_Gerudo_Fortress": {
+      "X": -532.37952597347282,
+      "Y": -534.6790878861035
+    },
+    "20_Wasteland": {
+      "X": -812.92607931443172,
+      "Y": -645.05805969238247
+    },
+    "21_Colossus": {
+      "X": -1115.6772024837533,
+      "Y": -696.12673064808746
+    }
+  },
+  "Links": [
+    {
+      "Source": "Hyrule Field to Lon Lon",
+      "Dest": "Lon Lon to Hyrule Field"
+    },
+    {
+      "Source": "Hyrule Field to Kokiri",
+      "Dest": "Saria's Bridge to Hyrule Field"
+    },
+    {
+      "Source": "Saria's Bridge to Kokiri",
+      "Dest": "Kokiri to Saria's Bridge"
+    },
+    {
+      "Source": "Kokiri to Lost Woods",
+      "Dest": "Lost Woods to Kokiri (Get Lost)"
+    },
+    {
+      "Source": "Lost Woods to Zora's River",
+      "Dest": "Zora's River to Lost Woods"
+    },
+    {
+      "Source": "Zora's River to Zora's Domain",
+      "Dest": "Zora's Domain to Zora's River"
+    },
+    {
+      "Source": "Zora's Domain to Zora's Fountain",
+      "Dest": "Zora's Fountain to Zora's Domain"
+    },
+    {
+      "Source": "Kakariko to Graveyard",
+      "Dest": "Graveyard to Kakariko"
+    },
+    {
+      "Source": "Kakariko to Death Mountain Trail",
+      "Dest": "Death Mountain Trail to Kakariko"
+    },
+    {
+      "Source": "Hyrule Field to Kakariko",
+      "Dest": "Kakariko to Hyrule Field"
+    },
+    {
+      "Source": "Hyrule Field to Zora's River",
+      "Dest": "Zora's River to Hyrule Field"
+    },
+    {
+      "Source": "Market to Temple of Time Entrance",
+      "Dest": "Temple of Time Entrance to Market"
+    },
+    {
+      "Source": "Hyrule Field to Market",
+      "Dest": "Market to Hyrule Field"
+    },
+    {
+      "Source": "Market to Castle",
+      "Dest": "Castle to Market"
+    },
+    {
+      "Source": "Hyrule Field to Gerudo Valley",
+      "Dest": "Gerudo Valley to Hyrule Field"
+    },
+    {
+      "Source": "Hyrule Field to Lake Hylia",
+      "Dest": "Lake Hylia to Hyrule Field"
+    },
+    {
+      "Source": "Gerudo Valley to Gerudo Fortress",
+      "Dest": "Gerudo Fortress to Gerudo Valley"
+    },
+    {
+      "Source": "Gerudo Fortress to Wasteland",
+      "Dest": "Wasteland to Gerudo Fortress"
+    },
+    {
+      "Source": "Wasteland to Desert Colossus",
+      "Dest": "Desert Colossus to Wasteland"
+    },
+    {
+      "Source": "Lost Woods to Sacred Forest Meadow",
+      "Dest": "Sacred Forest Meadow to Lost Woods"
+    },
+    {
+      "Source": "Zora's Domain to Lake Hylia",
+      "Dest": "Lake Hylia to Zora's Domain"
+    },
+    {
+      "Source": "Death Mountain Trail to Goron City",
+      "Dest": "Goron City to Death Mountain Trail"
+    },
+    {
+      "Source": "Death Mountain Trail to Death Mountain Crater",
+      "Dest": "Death Mountain Crater to Death Mountain Trail"
+    },
+    {
+      "Source": "Goron City to Death Mountain Crater",
+      "Dest": "Death Mountain Crater to Goron City"
+    },
+    {
+      "Source": "Goron City to Lost Woods",
+      "Dest": "Lost Woods to Goron City"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "Positions": {
+    "07_Kakariko": {
+      "X": -1256.9503443756958,
+      "Y": -347.76010891149963
+    },
+    "11_Mountain_Trail": {
+      "X": -1023.3706491976701,
+      "Y": -702.77064974048574
+    },
+    "14_Zora_River": {
+      "X": -706.62305167600857,
+      "Y": -341.98176046792236
+    },
+    "05_Castle": {
+      "X": -1418.5780104633006,
+      "Y": -502.53805574783388
+    },
+    "02_Hyrule_Field": {
+      "X": -412.43399320610285,
+      "Y": -444.1102108380386
+    },
+    "03_Market": {
+      "X": -807.20807439842577,
+      "Y": -705.77633727513239
+    },
+    "15_Zoras_Domain": {
+      "X": -101.61290892356857,
+      "Y": -140.59382059846152
+    },
+    "01_Kokiri": {
+      "X": -614.37337242473211,
+      "Y": -947.12666635109224
+    },
+    "12_Goron_City": {
+      "X": -426.66129551013557,
+      "Y": -970.48816268173255
+    },
+    "09_Sacred_Meadow": {
+      "X": -559.658329746752,
+      "Y": -1211.7772949684058
+    },
+    "08_Lost_Woods": {
+      "X": 78.468324811207822,
+      "Y": -1044.9633794118322
+    },
+    "13_Crater": {
+      "X": 154.41666727540377,
+      "Y": -1357.1735948061341
+    },
+    "06_LonLon": {
+      "X": -216.36582360444879,
+      "Y": -1023.6383030522181
+    },
+    "21_Colossus": {
+      "X": -901.89515309357012,
+      "Y": -205.86524926220989
+    },
+    "16_Lake_Hylia": {
+      "X": -659.81790905407343,
+      "Y": -116.8750842145397
+    },
+    "20_Wasteland": {
+      "X": -65.356567486635171,
+      "Y": -1199.1670759579263
+    }
+  },
+  "Links": [
+    {
+      "Source": "Kakariko to Graveyard",
+      "Dest": "Death Mountain Trail to Kakariko"
+    },
+    {
+      "Source": "Death Mountain Trail to Goron City",
+      "Dest": "Zora's River to Zora's Domain"
+    },
+    {
+      "Source": "Kakariko to Hyrule Field",
+      "Dest": "Castle to Market"
+    },
+    {
+      "Source": "Hyrule Field to Lake Hylia",
+      "Dest": "Zora's River to Hyrule Field"
+    },
+    {
+      "Source": "Hyrule Field to Gerudo Valley",
+      "Dest": "Zora's Domain to Lake Hylia"
+    },
+    {
+      "Source": "Death Mountain Trail to Death Mountain Crater",
+      "Dest": "Market to Castle"
+    },
+    {
+      "Source": "Market to Temple of Time Entrance",
+      "Dest": "Kokiri to Saria's Bridge"
+    },
+    {
+      "Source": "Zora's Domain to Zora's River",
+      "Dest": "Hyrule Field to Lon Lon"
+    },
+    {
+      "Source": "Hyrule Field to Market",
+      "Dest": "Goron City to Lost Woods"
+    },
+    {
+      "Source": "Sacred Forest Meadow to Lost Woods",
+      "Dest": "Kokiri to Lost Woods"
+    },
+    {
+      "Source": "Death Mountain Crater to Goron City",
+      "Dest": "Lost Woods to Kokiri (Get Lost)"
+    },
+    {
+      "Source": "Lost Woods to Goron City",
+      "Dest": "Lon Lon to Hyrule Field"
+    },
+    {
+      "Source": "Goron City to Death Mountain Trail",
+      "Dest": "Market to Hyrule Field"
+    },
+    {
+      "Source": "Hyrule Field to Kakariko",
+      "Dest": "Lost Woods to Zora's River"
+    },
+    {
+      "Source": "Lost Woods to Sacred Forest Meadow",
+      "Dest": "Death Mountain Crater to Death Mountain Trail"
+    },
+    {
+      "Source": "Death Mountain Trail Owl",
+      "Dest": "Zora's River to Zora's Domain"
+    },
+    {
+      "Source": "Hyrule Field to Zora's River",
+      "Dest": "Zora's River to Lost Woods"
+    },
+    {
+      "Source": "Hyrule Field to Kokiri",
+      "Dest": "Zora's Domain to Zora's Fountain"
+    },
+    {
+      "Source": "Desert Colossus to Wasteland",
+      "Dest": "Lake Hylia to Hyrule Field"
+    },
+    {
+      "Source": "Lake Hylia Owl",
+      "Dest": "Hyrule Field to Lake Hylia"
+    },
+    {
+      "Source": "Kakariko to Death Mountain Trail",
+      "Dest": "Saria's Bridge to Kokiri"
+    },
+    {
+      "Source": "Saria's Bridge to Hyrule Field",
+      "Dest": "Wasteland to Desert Colossus"
+    },
+    {
+      "Source": "Goron City to Death Mountain Crater",
+      "Dest": "Lake Hylia to Zora's Domain"
+    }
+  ]
+}

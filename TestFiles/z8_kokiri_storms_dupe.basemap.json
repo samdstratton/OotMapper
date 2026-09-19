@@ -1,0 +1,921 @@
+{
+  "Segments": {
+    "01_Kokiri": {
+      "Size": "295.491088757813,245.179298530464",
+      "Entrances": {
+        "Kokiri to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.425,
+            "Y": 0.0
+          }
+        },
+        "Kokiri to Saria's Bridge": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.435
+          }
+        },
+        "Link's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.501,
+            "Y": 0.947
+          }
+        },
+        "Deku Tree": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.999,
+            "Y": 0.573
+          }
+        },
+        "Mido's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.386,
+            "Y": 0.316
+          }
+        },
+        "Saria's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.651,
+            "Y": 0.794
+          }
+        },
+        "Kokiri Shop": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.746,
+            "Y": 0.373
+          }
+        },
+        "Know-It-All Brothers' House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.185,
+            "Y": 0.644
+          }
+        },
+        "Kokiri Twins' House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.813,
+            "Y": 0.741
+          }
+        },
+        "Kokiri Storms Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.375,
+            "Y": 0.126
+          }
+        }
+      }
+    },
+    "02_Hyrule_Field": {
+      "Size": "400,385.494",
+      "Entrances": {
+        "Hyrule Field to Kokiri": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.929,
+            "Y": 0.588
+          }
+        },
+        "Hyrule Field to Lake Hylia": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.252,
+            "Y": 1.0
+          }
+        },
+        "Hyrule Field to Gerudo Valley": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.004,
+            "Y": 0.484
+          }
+        },
+        "Hyrule Field to Lon Lon": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.459,
+            "Y": 0.449
+          }
+        },
+        "Hyrule Field to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.597,
+            "Y": 0.076
+          }
+        },
+        "Hyrule Field to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.836,
+            "Y": 0.067
+          }
+        },
+        "Hyrule Field to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.988,
+            "Y": 0.292
+          }
+        }
+      }
+    },
+    "03_Market": {
+      "Size": "377.129828464647,176.315737403792",
+      "Entrances": {
+        "Market to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.687,
+            "Y": 0.998
+          }
+        },
+        "Market to Castle": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.686,
+            "Y": 0.005
+          }
+        },
+        "Market to Temple of Time Entrance": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.999,
+            "Y": 0.156
+          }
+        },
+        "Happy Mask Shop": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.787,
+            "Y": 0.119
+          }
+        },
+        "Market Potion Shop": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.856,
+            "Y": 0.423
+          }
+        },
+        "Market Bazaar": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.855,
+            "Y": 0.648
+          }
+        },
+        "Bombchu Bowling": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.514,
+            "Y": 0.5
+          }
+        },
+        "Child Shooting Gallery": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.609,
+            "Y": 0.084
+          }
+        },
+        "Lens Game": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.536,
+            "Y": 0.918
+          }
+        },
+        "Richard's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.162,
+            "Y": 0.925
+          }
+        },
+        "Bombchu Shop": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.212,
+            "Y": 0.962
+          }
+        },
+        "Back Alley House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.14,
+            "Y": 0.059
+          }
+        }
+      }
+    },
+    "04_ToT_Entrance": {
+      "Size": "71.6971844817084,59.4351735057242",
+      "Entrances": {
+        "Temple of Time Entrance to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.053,
+            "Y": 0.893
+          }
+        },
+        "Temple of Time": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.991,
+            "Y": 0.146
+          }
+        }
+      }
+    },
+    "05_Castle": {
+      "Size": "200,271.832",
+      "Entrances": {
+        "Castle to Market": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.307,
+            "Y": 0.973
+          }
+        },
+        "Din's Fire Fairy Fountain": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.873,
+            "Y": 0.545
+          }
+        },
+        "Double Defense Fairy Fountain": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.999,
+            "Y": 0.532
+          }
+        },
+        "Ganon's Castle": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.308,
+            "Y": 0.097
+          }
+        }
+      }
+    },
+    "06_LonLon": {
+      "Size": "200,251.613",
+      "Entrances": {
+        "Lon Lon to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.714,
+            "Y": 0.008
+          }
+        },
+        "Lon Lon Corner Tower": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.155,
+            "Y": 0.878
+          }
+        },
+        "Lon Lon Stable": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.676,
+            "Y": 0.147
+          }
+        },
+        "Lon Lon House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.776,
+            "Y": 0.09
+          }
+        }
+      }
+    },
+    "07_Kakariko": {
+      "Size": "200,136.708",
+      "Entrances": {
+        "Kakariko to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.777
+          }
+        },
+        "Kakariko to Graveyard": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.998,
+            "Y": 0.855
+          }
+        },
+        "Kakariko to Death Mountain Trail": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.566,
+            "Y": 0.002
+          }
+        },
+        "Windmill Hut": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.84,
+            "Y": 0.629
+          }
+        },
+        "Impa's House (Front)": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.528,
+            "Y": 0.949
+          }
+        },
+        "Impa's House (Back)": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.608,
+            "Y": 0.949
+          }
+        },
+        "House of Skulltula": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.484,
+            "Y": 0.739
+          }
+        },
+        "Adult Shooting Gallery": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.638,
+            "Y": 0.72
+          }
+        },
+        "Bottom of the Well": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.724,
+            "Y": 0.629
+          }
+        },
+        "Kakariko Granny's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.685,
+            "Y": 0.516
+          }
+        },
+        "Boss Carpenter's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.606,
+            "Y": 0.517
+          }
+        },
+        "Kakariko Potion Shop (Front)": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.616,
+            "Y": 0.337
+          }
+        },
+        "Kakariko Potion Shop (Back)": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.674,
+            "Y": 0.308
+          }
+        },
+        "Kakariko Bazaar": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.498,
+            "Y": 0.303
+          }
+        }
+      }
+    },
+    "08_Lost_Woods": {
+      "Size": "200,260.037",
+      "Entrances": {
+        "Saria's Bridge to Kokiri": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.179,
+            "Y": 0.842
+          }
+        },
+        "Saria's Bridge to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.001,
+            "Y": 0.844
+          }
+        },
+        "Lost Woods to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.99,
+            "Y": 0.37
+          }
+        },
+        "Lost Woods to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.594,
+            "Y": 0.316
+          }
+        },
+        "Lost Woods to Sacred Forest Meadow": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.593,
+            "Y": 0.0
+          }
+        },
+        "Lost Woods to Kokiri (Get Lost)": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.392,
+            "Y": 0.601
+          }
+        }
+      }
+    },
+    "09_Sacred_Meadow": {
+      "Size": "69.891,200",
+      "Entrances": {
+        "Sacred Forest Meadow to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.39,
+            "Y": 0.998
+          }
+        },
+        "Forest Temple": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.53,
+            "Y": 0.003
+          }
+        }
+      }
+    },
+    "10_Graveyard": {
+      "Size": "200,75.567",
+      "Entrances": {
+        "Graveyard to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.002,
+            "Y": 0.634
+          }
+        },
+        "Shadow Temple": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.996,
+            "Y": 0.479
+          }
+        },
+        "Dampe's House": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.204,
+            "Y": 0.868
+          }
+        }
+      }
+    },
+    "11_Mountain_Trail": {
+      "Size": "200,469.707",
+      "Entrances": {
+        "Death Mountain Trail to Kakariko": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.367,
+            "Y": 0.996
+          }
+        },
+        "Death Mountain Trail to Death Mountain Crater": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.787,
+            "Y": 0.004
+          }
+        },
+        "Death Mountain Trail to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.655,
+            "Y": 0.479
+          }
+        },
+        "Death Mountain Trail Owl": {
+          "EnType": 1,
+          "FractionCoords": {
+            "X": 0.783,
+            "Y": 0.084
+          }
+        },
+        "Magic Fairy Fountain": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.674,
+            "Y": 0.024
+          }
+        },
+        "Dodongo's Cavern": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.21,
+            "Y": 0.536
+          }
+        },
+        "Death Mountain Trail Cow Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.525,
+            "Y": 0.605
+          }
+        },
+        "Death Mountain Trail Storms Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.661,
+            "Y": 0.587
+          }
+        }
+      }
+    },
+    "12_Goron_City": {
+      "Size": "200,208.541",
+      "Entrances": {
+        "Goron City to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.736,
+            "Y": 0.99
+          }
+        },
+        "Goron City to Death Mountain Trail": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.579,
+            "Y": 0.993
+          }
+        },
+        "Goron City to Death Mountain Crater": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.593,
+            "Y": 0.003
+          }
+        },
+        "Goron Shop": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.48,
+            "Y": 0.534
+          }
+        },
+        "Goron City Lava Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.95,
+            "Y": 0.129
+          }
+        }
+      }
+    },
+    "13_Crater": {
+      "Size": "200,208.802",
+      "Entrances": {
+        "Death Mountain Crater to Death Mountain Trail": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.279,
+            "Y": 0.915
+          }
+        },
+        "Death Mountain Crater to Goron City": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.007,
+            "Y": 0.416
+          }
+        },
+        "Double Magic Fairy Fountain": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.139,
+            "Y": 0.664
+          }
+        },
+        "Fire Temple": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.559,
+            "Y": 0.01
+          }
+        },
+        "Crater Upper Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.567,
+            "Y": 0.848
+          }
+        },
+        "Crater Lower Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.099,
+            "Y": 0.272
+          }
+        }
+      }
+    },
+    "14_Zora_River": {
+      "Size": "200,102.927",
+      "Entrances": {
+        "Zora's River to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.066,
+            "Y": 0.996
+          }
+        },
+        "Zora's River to Lost Woods": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.947,
+            "Y": 0.275
+          }
+        },
+        "Zora's River to Zora's Domain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.999,
+            "Y": 0.098
+          }
+        },
+        "Zora's River Storms Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.029,
+            "Y": 0.495
+          }
+        },
+        "Zora's River Open Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.349,
+            "Y": 0.577
+          }
+        },
+        "Zora's River Boulder Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.399,
+            "Y": 0.421
+          }
+        }
+      }
+    },
+    "15_Zoras_Domain": {
+      "Size": "200,240.367",
+      "Entrances": {
+        "Zora's Domain to Zora's River": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.0,
+            "Y": 0.747
+          }
+        },
+        "Zora's Domain to Lake Hylia": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.452,
+            "Y": 0.721
+          }
+        },
+        "Zora's Domain to Zora's Fountain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.784,
+            "Y": 0.008
+          }
+        },
+        "Zora Shop": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.691,
+            "Y": 0.832
+          }
+        },
+        "Zora's Domain Storms Grotto": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.2,
+            "Y": 0.625
+          }
+        }
+      }
+    },
+    "16_Lake_Hylia": {
+      "Size": "200,255.178",
+      "Entrances": {
+        "Lake Hylia to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.358,
+            "Y": 0.003
+          }
+        },
+        "Lake Hylia to Zora's Domain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.516,
+            "Y": 0.393
+          }
+        },
+        "Lakeside Lab": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.256,
+            "Y": 0.412
+          }
+        },
+        "Fishing Pond": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.847,
+            "Y": 0.407
+          }
+        },
+        "Water Temple": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.515,
+            "Y": 0.701
+          }
+        },
+        "Lake Hylia Owl": {
+          "EnType": 1,
+          "FractionCoords": {
+            "X": 0.065,
+            "Y": 0.676
+          }
+        },
+        "Lake Hylia Grave": {
+          "EnType": 3,
+          "FractionCoords": {
+            "X": 0.203,
+            "Y": 0.667
+          }
+        }
+      }
+    },
+    "17_Zoras_Fountain": {
+      "Size": "200,220.181",
+      "Entrances": {
+        "Zora's Fountain to Zora's Domain": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.089,
+            "Y": 0.517
+          }
+        },
+        "Farore's Wind Fairy Fountain": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.696,
+            "Y": 0.934
+          }
+        },
+        "Ice Cavern": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.566,
+            "Y": 0.043
+          }
+        },
+        "Jabu Jabu": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.414,
+            "Y": 0.379
+          }
+        }
+      }
+    },
+    "18_Gerudo_Valley": {
+      "Size": "200,196.402",
+      "Entrances": {
+        "Gerudo Valley to Hyrule Field": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.998,
+            "Y": 0.592
+          }
+        },
+        "Gerudo Valley to Gerudo Fortress": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.002,
+            "Y": 0.335
+          }
+        },
+        "Carpenters' Tent": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.374,
+            "Y": 0.309
+          }
+        }
+      }
+    },
+    "19_Gerudo_Fortress": {
+      "Size": "200,230.769",
+      "Entrances": {
+        "Gerudo Fortress to Gerudo Valley": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.253,
+            "Y": 0.906
+          }
+        },
+        "Gerudo Fortress to Wasteland": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.003,
+            "Y": 0.353
+          }
+        },
+        "Gerudo Training Grounds": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.265,
+            "Y": 0.675
+          }
+        }
+      }
+    },
+    "20_Wasteland": {
+      "Size": "200,116.009",
+      "Entrances": {
+        "Wasteland to Gerudo Fortress": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.966,
+            "Y": 0.887
+          }
+        },
+        "Wasteland to Desert Colossus": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.003,
+            "Y": 0.353
+          }
+        }
+      }
+    },
+    "21_Colossus": {
+      "Size": "200,206.609",
+      "Entrances": {
+        "Desert Colossus to Wasteland": {
+          "EnType": 0,
+          "FractionCoords": {
+            "X": 0.997,
+            "Y": 0.438
+          }
+        },
+        "Nayru's Love Fairy Fountain": {
+          "EnType": 2,
+          "FractionCoords": {
+            "X": 0.762,
+            "Y": 0.222
+          }
+        },
+        "Spirit Temple": {
+          "EnType": 4,
+          "FractionCoords": {
+            "X": 0.119,
+            "Y": 0.481
+          }
+        }
+      }
+    }
+  }
+}
