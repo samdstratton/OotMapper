@@ -1,0 +1,120 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: system-ui, sans-serif;
+  font-size: 14px;
+}
+
+.app {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  height: 100%;
+}
+
+.canvas-frame {
+  margin: 5px 5px 0;
+  border: 2px solid dimgray;
+  min-height: 0;
+}
+
+.map-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+  user-select: none;
+}
+
+.segment {
+  cursor: move;
+}
+
+.entrance {
+  cursor: pointer;
+}
+
+/* While arranging, the layout can't be edited: show a busy cursor everywhere over the map. */
+.map-canvas.locked,
+.map-canvas.locked .segment,
+.map-canvas.locked .entrance {
+  cursor: progress;
+}
+
+/*
+ * The toolbar wraps by whole groups as the window narrows. Its height depends only on the window's
+ * width, never on app state: Auto-arrange fits the map to the canvas's shape, so anything that
+ * resized the toolbar (and so the canvas) would change the result.
+ */
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+  padding: 6px 5px;
+}
+
+.toolbar-group {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex: 0 0 auto;
+}
+
+/* The segment picker takes whatever room the other groups leave, up to a sensible width. */
+.toolbar-picker {
+  flex: 1 1 200px;
+  min-width: 0;
+}
+
+.toolbar-picker select {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 320px;
+}
+
+/* Clear sits at the far end of whichever row it lands on. */
+.toolbar-end {
+  margin-left: auto;
+}
+
+.toolbar button {
+  min-width: 50px;
+  padding: 3px 8px;
+}
+
+/* Red only while it can be used, so a disabled Clear looks like every other disabled button. */
+.toolbar button.danger:not(:disabled) {
+  background: orangered;
+  border: 1px solid #b33;
+  color: white;
+}
+
+/* A constant size whatever the label says, so swapping Auto-arrange/Undo/Arranging moves nothing. */
+.toolbar button.arrange-button {
+  width: 120px;
+}
+
+/* A brief message over the corner of the map. It takes no toolbar space, so it cannot resize anything. */
+.canvas-frame {
+  position: relative;
+}
+
+.canvas-note {
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+  max-width: calc(100% - 16px);
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.85);
+  color: #333;
+  font-size: 12px;
+  pointer-events: none;
+}
+
+.status {
+  padding: 16px;
+}

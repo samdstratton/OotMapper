@@ -3,3 +3,4 @@ OotMapper/bin/*
 OotMapper/obj/*
 packages/*
 *.csproj.user
+.claude/*
