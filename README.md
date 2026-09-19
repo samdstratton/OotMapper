@@ -17,7 +17,7 @@ Both read and write the same `*.layout.json` and `*.basemap.json` formats, so a 
 
 ### Running it
 
-You need [Node.js](https://nodejs.org/) 22.12 or newer. It was developed on 22.13. Vite itself accepts 20.19+, but the test runner (Vitest) supports 22.12+, 24 and 26+ (not 23 or 25).
+You need [Node.js](https://nodejs.org/) 22.12 or newer. Vite itself accepts 20.19+, but the test runner (Vitest) supports 22.12+, 24 and 26+ (not 23 or 25).
 
 ```bash
 cd web
@@ -35,7 +35,7 @@ Other commands, all run from `web/`:
 | `npm run preview` | Serves the built site locally |
 | `npm test` | Runs the unit tests (Vitest) |
 
-The build is plain static files and can be hosted anywhere. It assumes it is served from the site root; hosting under a subpath needs Vite's `base` option set in `vite.config.ts`.
+The build is plain static files and can be hosted anywhere. By default it assumes it is served from the site root; to host it under a subpath, set the `BASE_PATH` environment variable when building (for example `BASE_PATH=/OotMapper/ npm run build`).
 
 ### Using it
 
@@ -182,4 +182,3 @@ The region map images (in `OotMapper/Images/`, and the WebP copies in `web/publi
 - The web app starts with an empty canvas (as the desktop app does); the example layouts have to be opened with **Load**.
 - The basemap cannot be edited in the web app, and grottos, indoor entrances and dungeons are shown but cannot be linked.
 - Auto-arrange results depend on the window's shape, and are only as good as a quick search allows.
-- The web app has not been deployed anywhere, and no licence file has been added yet.
